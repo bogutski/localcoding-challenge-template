@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "mocha ./_challenges/*.js --timeout 10000  --exit"
+  },
+  "dependencies": {
+    "chai": "^4.3.6",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-prettier": "^4.0.0",
+    "mocha": "^9.2.2",
+    "prettier": "^2.5.1"
+  }
+}
